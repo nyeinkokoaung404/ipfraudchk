@@ -1,6 +1,6 @@
 # fraud-chk
 IP FRAUD CHK API IN FLASK
-If face issues contact me on telegram [account](https://t.me/xbinner69)
+If face issues contact me on telegram [account](https://t.me/nkka404)
 
 ---
 ## Click below deploy button to host it on heroku.
